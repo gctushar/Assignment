@@ -15,4 +15,4 @@ Exercise 1: The solution of exercise one is under the package exercise and Exerc
 
 
 Solution: 
-Exercise 2: The solution of exercise one is under the package exercise and Exercise2 class. This class contains a method SumUpKey which take tuw string as input. First string in for input file and second one is for output file. Just need to provide with the name and location of the two file the function SumUpKey will sum up the key and store the result on a file.
+Exercise 2: The solution of exercise two is under the package exercise and Exercise2 class. This class contains a method SumUpKey which take tuw string as input. First string in for input file and second one is for output file. Just need to provide with the name and location of the two file the function SumUpKey will sum up the key and store the result on a file.
