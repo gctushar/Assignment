@@ -1,0 +1,7 @@
+ban 3
+cat 3
+dog 1
+man 3
+women 2
+cat 2
+dog 10
